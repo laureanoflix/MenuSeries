@@ -78,31 +78,18 @@ http://archive.org/download/mio72_yopmail_TC/TC.m3u
 http://archive.org/download/erling44_198f_ymail3_9_201905/un%20show%20mas%20t1.m3u
 #EXTINF:-1 tvg-logo="http://archive.org/download/2225464552/WALLACE Y GROMIT.jpg" group-title="Caricaturas",WALLACE Y GROMIT
 http://archive.org/download/Wgm31kl21p35oi5u6/wallaceygromitserie.m3u
-#EXTINF: -1 tvg-logo = "https://artworks.thetvdb.com/banners/fanart/original/73711-2_t.jpg", Mortal Kombat Defensores de la Tierra 
-https://dl.dropbox.com/s/kkyaz2i55vg48ma/Mortal%20kombat%20defensores.m3u  
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nrR1kHw/avataraang-1.jpg",Avatar el ultimo maestro aire 
 https://dl.dropbox.com/s/ooxygr67gn4mtsx/AL.m3u 
-#EXTINF: -1 tvg-logo = "https://fanart.tv/fanart/tv/75417/tvthumb/B_75417%20(0).jpg", Batman del Futuro 
-https://dl.dropbox.com/s/98debup3sjpz1oa/BatmandelFuturo.m3u 
-#EXTINF: -1 tvg-logo = "https://i.ibb.co/q7FdkJv/setsdtd.jpg", Ben 10 
-https://archive.org/download/ahorros_20200510/Ahorros.M3U 
-#EXTINF: -1 tvg-logo = "https://fanart.tv/fanart/tv/81841/tvthumb/ben-10-alien-force-4dcef99e69b2f.jpg", Ben 10 Alien Force 
-https://DL.dropbox.com/s/malg59hi1bkhnoh/Ben%2010%20AF.M3U 
-#EXTINF: -1 tvg-logo = "https://fanart.tv/fanart/tv/75886/tvthumb/spongebob-squarepants-4f5bb98590515.jpg", Bob Esponja 
-https://dl.dropbox.com/s/pvyer7o4i8klfyi/bob%20espoja.m3u  
-#EXTINF: -1 tvg-logo = "https://fanart.tv/fanart/tv/77155/tvthumb/the-incredible-hulk-1996-4f5b999c1888e.jpg", El increible Hulk 
-https://dl.dropbox.com/s/6i14e54wjma4zlc/HULK90.M3U   
-#EXTINF: -1 tvg-logo = "https://image.tmdb.org/t/p/original/a31By5kZ2s23Ej6xrIEzfxcQOmd.jpg", Hora de Aventura 
-https://dl.dropbox.com/s/sdknrpm2lveiq3t/HDA.m3u 
+
 #EXTINF:-1 tvg-logo="https://fanart.tv/fanart/tv/76320/tvthumb/justice-league-unlimited-4f5b9abf21e7f.jpg",Liga De La Justicia Ilimitada 
-https://dl.dropbox.com/s/hxkkfbel6rs9lk9/La%20Liga%20De%20La%20Justicia%20Ilimitada.m3u 
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bNTnqfx/descarga-1-1.jpg",Los jovenes titanes 
 https://dl.dropbox.com/s/5ifsd71jj10jsi7/LJT.m3u  
-#EXTINF: -1 tvg-logo = "https://fanart.tv/fanart/tv/70355/tvthumb/T_70355.jpg", Thundercats 
+#EXTINF:-1 tvg-logo="https://fanart.tv/fanart/tv/70355/tvthumb/T_70355.jpg", Thundercats 
 http://archive.org/download/mio72_yopmail_TC/TC.m3u 
-#EXTINF: -1 tvg-logo = "https://artworks.thetvdb.com/banners/fanart/original/70355-7.jpg", Thundercats (1985) 
-https://dl.dropbox.com/s/efv1hds0q4jfa8u/Thundercats-orig.m3u 
-#EXTINF: -1 tvg-logo = "https://artworks.thetvdb.com/banners/fanart/original/241431-2.jpg", Thundercats (2011) 
-https://dl.dropbox.com/s/rvq3gr4sax4l16f/Thundercats.m3u 
-#EXTINF: -1 tvg-logo = "https://fanart.tv/fanart/tv/76115/tvthumb/x-men-the-animated-series-4e41b6ada845f.jpg", X-men (1992) 
-https://dl.dropbox.com/s/frwrwa9ko9gyx46/x%20men%20de%20los%2090.m3u 
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/fanart/original/70355-7.jpg", Thundercats (1985) 
+
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/fanart/original/241431-2.jpg", Thundercats (2011) 
+
+#EXTINF:-1 tvg-logo="https://fanart.tv/fanart/tv/76115/tvthumb/x-men-the-animated-series-4e41b6ada845f.jpg", X-men (1992) 
