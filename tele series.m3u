@@ -88,10 +88,8 @@ http://archive.org/download/t-1la/T1la.m3u
 https://raw.githubusercontent.com/lau64839/series/main/Loky.m3u
 #EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/LOS REYES DE LA COLINA.jpg",LOS REYES DE LA COLINA
 http://archive.org/download/koht1_202001/KOHT1.m3u
-#EXTINF:-1 tvg-logo="http://archive.org/download/misportadashd567/resizer.jpg",Los Simpson
+#EXTINF:-1 tvg-logo="https://fanart.tv/fanart/tv/71663/tvthumb/the-simpsons-516e91f89377e.jpg",Los Simpson
 http://archive.org/download/THESG/THESGPR.m3u
-#EXTINF:-1 tvg-logo="https://fanart.tv/fanart/tv/71663/tvthumb/the-simpsons-516e91f89377e.jpg",Los Simpson (1989)
-https://dl.dropbox.com/s/0dcuncf23ktl2if/los%20simpson.m3u
 #EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/MALCOLM EL DE EN MEDIO.jpg",MALCOLM EL DE EN MEDIO
 http://archive.org/download/uaufderharl_c922j_ymail4_Lis1/lis1.m3u
 #EXTINF:-1 tvg-logo="https://archive.org/download/01_20210320_20210320/sombra%20por.png",Marvel Legends 
